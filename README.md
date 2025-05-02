@@ -6,6 +6,7 @@ This repository contains links to software packages and databases used in deep-l
 
 [https://www.nature.com/articles/s41524-022-00734-6](https://www.nature.com/articles/s41524-022-00734-6)
 
+[DeepLearning for Materials Science Google Scholar Page with citations >200](https://scholar.google.com/citations?user=yMWlKyAAAAAJ)
 
 # Atomistic databases and software packages
 
